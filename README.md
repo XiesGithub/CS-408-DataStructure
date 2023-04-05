@@ -1,2 +1,6 @@
 # CS-408-DataStructure
-Data Structure Gitbook
+## 为什么打算自己写一本数据结构书
+* 数据结构是计算机考研专业课最常考察的项目之一
+* 通常学校推荐的的数据结构教材讲解枯燥概念晦涩
+* 老师教学数据结构时存在The Cuese of knowledge
+
